@@ -1,0 +1,21 @@
+.address-company{
+	
+	padding-top:0px;
+	
+	
+}
+
+.contact{
+	border:1px solid #eee;
+	background-color:#F5F5F5;
+	padding-top:0px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	margin-bottom:40px;
+}
+.blue{
+	width: 30px;
+	border-top:2px solid  grey;
+	margin-bottom: 10px;
+}
